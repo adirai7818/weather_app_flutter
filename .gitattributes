@@ -1,6 +1,0 @@
-# Specify languages
-*.dart linguist-language=DART
-
-# Exclude files from language stats
-android/* linguist-vendored
-web/* linguist-vendored
