@@ -1,0 +1,6 @@
+# Specify languages
+*.dart linguist-language=DART
+
+# Exclude files from language stats
+html/* linguist-vendored
+c++/* linguist-vendored
